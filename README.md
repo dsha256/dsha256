@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
         <img
-                src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;More%20than%20two%20years%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
+                src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;__More%20than%20two%20years%20of%20experience_;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
 </p>
 
 
@@ -24,11 +24,14 @@
     <a href="https://discord.gg/tsTm3NX">
         <img alt="Discord"
              src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+    <a href="https://www.buymeacoffee.com/dsha256"><img alt="Buy Me a Coffee"
+                     src="https://img.shields.io/badge/BUY ME A COFFEE-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
 
 </p>
 
 
 ## 📊 Github stats
+<div align='center'>
 <p>
     <a align="center" href="https://github-readme-stats.vercel.app/api?username=dsha256&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="dsha256's Github Stats"
                     src="https://github-readme-stats.vercel.app/api?username=dsha256&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
@@ -95,6 +98,8 @@
              src="https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
     <img alt="EntGo"
              src="https://img.shields.io/badge/Ent Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
+    <img alt="GIN"
+             src="https://img.shields.io/badge/GIN GONIC-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
     <a href="#">
         <img alt="OpenCV"
              src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
@@ -134,7 +139,7 @@
         <img alt="MOngoDB"
              src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
     
-</p> Oთხშაბათი 3 სთ 
+</p> 
 
 ### ☁ Cloud hosting
 <p>
@@ -211,7 +216,7 @@
              src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
 </p>
 
-### 💻 Interests
+### 💻 My favorite operating systems
 
 
 <p>
@@ -224,7 +229,15 @@
     <a href="#"><img alt="Windows"
                      src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 
-### 💻 My favorite operating systems
+### 💻 Interests
+<p>
+    <a href="#"><img alt="BTC"
+                     src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"></a>
+    <a href="#"><img alt="ETH"
+                     src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"></a>
+<p>
+
+</div>
 
 ## 🔥 Streak stats
 
