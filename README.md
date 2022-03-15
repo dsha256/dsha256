@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
         <img
-                src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Meme%20Developer%20At%20'Guramiko Movdivar International'&center=true&width=700&height=45"></a>
+                src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Meme%20Developer&center=true&width=380&height=45"></a>
 </p>
 
 
