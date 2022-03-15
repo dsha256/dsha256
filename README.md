@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
         <img
-                src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;__More%20than%20two%20years%20of%20experience_;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
+                src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Meme%20Developer%20At%20'Guramiko Movdivar International'&center=true&width=700&height=45"></a>
 </p>
 
 
