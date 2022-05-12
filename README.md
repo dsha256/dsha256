@@ -48,7 +48,7 @@
 
 ## 🛠️ My favorite tools
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Languages
 
 <p>
     <a href="#">
