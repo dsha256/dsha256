@@ -197,9 +197,6 @@
         <img alt="Markdown" 
              src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
     <a href="#">
-        <img alt="NPM" 
-             src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
-    <a href="#">
         <img alt="PYPi" 
              src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white"></a>
     <!-- <a href="#">
